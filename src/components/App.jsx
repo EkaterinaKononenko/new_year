@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import santas from '../data/santas.json';
 import { SantasList } from './Santaslist/SantasList';
+//import { SantaItem } from './Modal/Modal';
 import { WrapNewYear, TitleNewYear } from './App.styled';
 
 export class App extends Component {
