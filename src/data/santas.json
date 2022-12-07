@@ -1,0 +1,62 @@
+[
+  {
+    "id": "2",
+    "img": "https://cdn-icons-png.flaticon.com/512/4193/4193278.png",
+    "label": "Smart"
+  },
+  {
+    "id": "3",
+    "img": "https://cdn-icons-png.flaticon.com/512/4193/4193267.png",
+    "label": "Friendly"
+  },
+  {
+    "id": "4",
+    "img": "https://cdn-icons-png.flaticon.com/256/4193/4193265.png",
+    "label": "Ecologist"
+  },
+  {
+    "id": "5",
+    "img": "https://cdn-icons-png.flaticon.com/256/4193/4193253.png",
+    "label": "Kind"
+  },
+  {
+    "id": "6",
+    "img": "https://cdn-icons-png.flaticon.com/256/4193/4193261.png",
+    "label": "Congratulation"
+  },
+  {
+    "id": "1",
+    "img": "https://img.freepik.com/free-vector/santa-claus-cartoon-character_1308-78252.jpg?w=2000",
+    "label": "Cool"
+  },
+  {
+    "id": "7",
+    "img": "https://us.123rf.com/450wm/jemastock/jemastock2012/jemastock201202351/jemastock201202351.jpg?ver=6",
+    "label": "Musicant"
+  },
+  {
+    "id": "8",
+    "img": "https://static.vecteezy.com/system/resources/previews/005/112/940/non_2x/cartoon-santa-claus-with-reindeer-waving-hands-free-vector.jpg",
+    "label": "Deer"
+  },
+  {
+    "id": "9",
+    "img": "https://media.istockphoto.com/id/121117711/es/vector/santa-soaks-su-dolor-de-pies.jpg?s=612x612&w=0&k=20&c=PvwG2vm3XiRtFSDdpzuaqQyKd2KMtFVbiF7E9FnvCqw=",
+    "label": "Rest"
+  },
+  {
+    "id": "10",
+    "img": "https://thumbs.dreamstime.com/b/santa-bathroom-scales-illustration-claus-wearing-his-underwear-standing-weighing-himself-133368870.jpg",
+    "label": "Lucky"
+  },
+  {
+    "id": "11",
+    "img": "https://img.freepik.com/vector-premium/dibujos-animados-navidad-santa-claus-color-clipart_576561-3950.jpg",
+    "label": "Positive"
+  },
+  {
+    "id": "12",
+    "img": "https://media.istockphoto.com/id/497628224/vector/naked-santa-claus.jpg?s=612x612&w=0&k=20&c=2SNXobcQujYVLkM9RXwbUIIs9ubn6YxhZTbxGORcy04=",
+    "label": "Secret"
+  }
+]
